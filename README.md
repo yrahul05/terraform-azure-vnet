@@ -107,3 +107,5 @@ Replace **MIT** and **yrahul05** with the appropriate license and your informati
 | <a name="output_vnet_location"></a> [vnet\_location](#output\_vnet\_location) | The location of the newly created vNet |
 | <a name="output_vnet_rg_name"></a> [vnet\_rg\_name](#output\_vnet\_rg\_name) | The name of the resource group in which to create the virtual network. Changing this forces a new resource to be created |
 <!-- END_TF_DOCS --># terraform-azure-vnet
+# terraform-azure-vnet
+# terraform-azure-vnet
